@@ -1,0 +1,79 @@
+aid: trella
+name: Trella
+description: >-
+  Trella is a Cairo-headquartered B2B trucking marketplace and digital freight
+  platform that connects shippers with carriers across the Middle East, North
+  Africa, and Pakistan (MENA-P). Founded in 2019 by Omar Hagrass, Ali El
+  Atrash, and Pierre Saad and backed by Y Combinator, Trella runs a digital
+  load marketplace, a carrier mobile app, and a shipper web dashboard that
+  together replace the traditional broker-driven, paper-based long-haul
+  trucking workflow. Core platform services include load posting and
+  carrier matching, instant quoting, GPS tracking and live shipment
+  visibility, electronic proof of delivery (ePODs), load insurance, a
+  control-tower operations layer for carrier quality and performance, and
+  integrated payments and invoicing between shippers and carriers. The
+  network spans 30,000+ carriers and operates from major freight hubs
+  including Cairo, Alexandria, Port Said, Damietta, Sokhna, Jeddah,
+  Dammam, Riyadh, and Dubai, serving industries such as FMCG,
+  construction, manufacturing, agriculture, mining, e-commerce, retail,
+  electronics, ceramics, and freight forwarding. Trella's revenue model
+  is marketplace take-rate and value-added logistics services; there is
+  no public developer API, SDK, OpenAPI specification, webhooks
+  catalog, or open-source platform release for the Trella marketplace.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Trucking
+  - Freight
+  - Logistics
+  - Digital Freight Marketplace
+  - B2B Marketplace
+  - Shippers
+  - Carriers
+  - Supply Chain
+  - GPS Tracking
+  - Electronic Proof Of Delivery
+  - MENA
+  - Egypt
+  - Saudi Arabia
+  - United Arab Emirates
+  - Pakistan
+url: https://raw.githubusercontent.com/api-evangelist/trella/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.trella.app
+  - type: Shippers
+    url: https://www.trella.app/shippers/eg
+  - type: Carriers
+    url: https://www.trella.app/carriers
+  - type: Careers
+    url: https://www.trella.app/careers
+  - type: ESG
+    url: https://www.trella.app/esg
+  - type: Blog
+    url: https://blog.trella.app
+  - type: Contact
+    url: https://www.trella.app/contact
+  - type: GitHub
+    url: https://github.com/trella-app
+  - type: Twitter
+    url: https://twitter.com/AppTrella
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trellaapp
+  - type: Facebook
+    url: https://www.facebook.com/trellaapp
+  - type: Instagram
+    url: https://www.instagram.com/trella.app
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/trella
+  - type: YCombinator
+    url: https://www.ycombinator.com/companies/trella
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
