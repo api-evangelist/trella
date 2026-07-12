@@ -46,6 +46,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/trella-domain-security.yml
   - type: Website
     url: https://www.trella.app
   - type: Shippers
